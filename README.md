@@ -80,11 +80,21 @@ lib/
 
 ## Screenshots
 
-![add_item](public/add_item.png)
-![currently_renting](public/currently_renting.png)
-![homescreen](public/homescreen.png)
-![item_detail](public/item_detail.png)
-![my_listing](public/my_listing.png)
-![profile](public/profile.png)
-![rented_out](public/rented_out.png)
-![settings_page](public/settings_page.png)
+<table>
+  <tr>
+    <td><img src="public/add_item.png" alt="Add Item" width="200"/></td>
+    <td><img src="public/currently_renting.png" alt="Currently Renting" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="public/homescreen.png" alt="Homescreen" width="200"/></td>
+    <td><img src="public/item_detail.png" alt="Item Detail" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="public/my_listing.png" alt="My Listing" width="200"/></td>
+    <td><img src="public/profile.png" alt="Profile" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="public/rented_out.png" alt="Rented Out" width="200"/></td>
+    <td><img src="public/settings_page.png" alt="Settings Page" width="200"/></td>
+  </tr>
+</table>
