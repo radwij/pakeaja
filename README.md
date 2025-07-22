@@ -77,3 +77,14 @@ lib/
 ├── utils/           # Utility functions (e.g., currency formatting)
 └── widgets/         # Reusable UI widgets
 ```
+
+## Screenshots
+
+![add_item](public/add_item.png)
+![currently_renting](public/currently_renting.png)
+![homescreen](public/homescreen.png)
+![item_detail](public/item_detail.png)
+![my_listing](public/my_listing.png)
+![profile](public/profile.png)
+![rented_out](public/rented_out.png)
+![settings_page](public/settings_page.png)
